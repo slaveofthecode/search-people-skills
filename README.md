@@ -1,6 +1,11 @@
 # search-people-skills
 ----
-[repository](https://github.com/slaveofthecode/search-people-skills) ![alt text](http://url/to/img.png)
+- <img src="https://raw.githubusercontent.com/slaveofthecode/search-people-skills/refs/heads/master/src/assets/github-mark-white.png"  height="12" title="search-people-skills" alt="search-people-skills" /> [repo](https://github.com/slaveofthecode/search-people-skills)
+- clone repository
+```bash
+git clone git@github.com:slaveofthecode/search-people-skills.git
+```
+<br />
 <br />
 
 ## step-by-step
